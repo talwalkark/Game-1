@@ -1,0 +1,292 @@
+{
+  "racers": [
+    {
+      "id": 1,
+      "name": "Coach",
+      "ability_name": "Team Boost",
+      "ability_description": "Everyone on my space gets +1 to their main move, including me.",
+      "ability_type": "mandatory",
+      "rarity": "common"
+    },
+    {
+      "id": 2,
+      "name": "Copycat",
+      "ability_name": "Mimic Leader",
+      "ability_description": "I have the power of the racer currently in the lead. If there's a tie, I pick.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "ability_name": "Slip Hazard",
+      "ability_description": "Trip any racer that stops on my space, or when I stop on theirs.",
+      "ability_type": "mandatory",
+      "rarity": "common"
+    },
+    {
+      "id": 4,
+      "name": "Cheerleader",
+      "ability_name": "Support Squad",
+      "ability_description": "At the start of my turn, I can make the racer(s) in last place move 2. If I do, I move 1.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 5,
+      "name": "Dicemonger",
+      "ability_name": "Reroll Dealer",
+      "ability_description": "Anyone can reroll their main move once per turn. When another racer does it, I move 1.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 6,
+      "name": "Leaptoad",
+      "ability_name": "Space Skipper",
+      "ability_description": "While moving, I skip spaces with other racers on them.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 7,
+      "name": "Legs",
+      "ability_name": "Power Stride",
+      "ability_description": "I can skip rolling for my main move and move 5 instead.",
+      "ability_type": "optional",
+      "rarity": "common"
+    },
+    {
+      "id": 8,
+      "name": "Lackey",
+      "ability_name": "Scavenger",
+      "ability_description": "When another racer rolls a 1 for their main move, they skip that move and I move 1.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 9,
+      "name": "Lovable Loser",
+      "ability_name": "Bronze Collector",
+      "ability_description": "At the start of my turn, I get a bronze point chip if I'm alone in last place.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 10,
+      "name": "Magician",
+      "ability_name": "Teleport",
+      "ability_description": "At the start of my turn, I can warp a racer to my space.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 11,
+      "name": "Party Animal",
+      "ability_name": "Party Crasher",
+      "ability_description": "If Huge Baby parties onto my space, everyone there gets put 1 space back.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 12,
+      "name": "Rocket Scientist",
+      "ability_name": "Double or Bust",
+      "ability_description": "When I roll for my main move, I can move double that number. If I do, I trip.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 13,
+      "name": "Romantic",
+      "ability_name": "Love Triangle",
+      "ability_description": "When anyone stops on a space with exactly one other racer, I move 2.",
+      "ability_type": "mandatory",
+      "rarity": "common"
+    },
+    {
+      "id": 14,
+      "name": "Scoocher",
+      "ability_name": "Tag Along",
+      "ability_description": "When another racer's power happens, I move 1.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 15,
+      "name": "Suckerfish",
+      "ability_name": "Follow Leader",
+      "ability_description": "When a racer on my space moves, I can also move to their new space.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 16,
+      "name": "Third Wheel",
+      "ability_name": "Consolation Prize",
+      "ability_description": "Before my race, I take 4 point chips.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 17,
+      "name": "Skipper",
+      "ability_name": "Jump Ahead",
+      "ability_description": "When anyone rolls a 1 for their main move, I go next in turn order.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 18,
+      "name": "Flip Flop",
+      "ability_name": "Swap Master",
+      "ability_description": "I can skip rolling for my main move and swap spaces with another racer instead.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 19,
+      "name": "Hare",
+      "ability_name": "Predict Jump",
+      "ability_description": "When I roll for my main move, I can move 4 if I roll a 1 or 2 (predicting).",
+      "ability_type": "optional",
+      "rarity": "common"
+    },
+    {
+      "id": 20,
+      "name": "Duelist",
+      "ability_name": "Challenge Accepted",
+      "ability_description": "Whenever a racer shares my space, I can shout DUEL! We roll our dice and whoever rolls highest moves 2.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 21,
+      "name": "Gunk",
+      "ability_name": "Slowing Ooze",
+      "ability_description": "Other racers get -1 to their main move.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 22,
+      "name": "Huge Baby",
+      "ability_name": "Personal Space",
+      "ability_description": "No one can ever be on my space, besides the start space. Whenever that would happen, put the racer on the space behind me instead.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 23,
+      "name": "Blimp",
+      "ability_name": "Floating",
+      "ability_description": "I float above the track and can't be tripped.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 24,
+      "name": "Alchemist",
+      "ability_name": "Transmute",
+      "ability_description": "I can convert my bronze chips to silver chips during scoring.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 25,
+      "name": "Baba Yaga",
+      "ability_name": "Curse",
+      "ability_description": "I can curse a racer to move -1 on their next main move.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 26,
+      "name": "Centaur",
+      "ability_name": "Swift Hooves",
+      "ability_description": "I move an extra space for free each turn.",
+      "ability_type": "mandatory",
+      "rarity": "common"
+    },
+    {
+      "id": 27,
+      "name": "Inchworm",
+      "ability_name": "Inch Forward",
+      "ability_description": "I move 1 extra space whenever I move an even number.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 28,
+      "name": "Mastermind",
+      "ability_name": "Strategy",
+      "ability_description": "I can see all racers' positions and plan accordingly.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    },
+    {
+      "id": 29,
+      "name": "M.O.U.T.H.",
+      "ability_name": "Loud Mouth",
+      "ability_description": "When I move, I can announce it loudly and prevent one other racer from moving.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 30,
+      "name": "Twin",
+      "ability_name": "Mirror",
+      "ability_description": "When another racer moves, I can move the same amount.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 31,
+      "name": "Sisyphus",
+      "ability_name": "Boulder Push",
+      "ability_description": "I move slower but can push other racers forward with me.",
+      "ability_type": "mandatory",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 32,
+      "name": "Stickler",
+      "ability_name": "Rule Enforcer",
+      "ability_description": "I can negate one illegal action per race.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 33,
+      "name": "Hypnotist",
+      "ability_name": "Mesmerize",
+      "ability_description": "I can make a racer skip their next turn.",
+      "ability_type": "optional",
+      "rarity": "rare"
+    },
+    {
+      "id": 34,
+      "name": "Genius",
+      "ability_name": "Brains Over Brawn",
+      "ability_description": "I can reroll my die once per race for free.",
+      "ability_type": "optional",
+      "rarity": "uncommon"
+    },
+    {
+      "id": 35,
+      "name": "Egg",
+      "ability_name": "Fragile",
+      "ability_description": "I'm easily tripped, but when I finish, I get a bonus point.",
+      "ability_type": "mandatory",
+      "rarity": "common"
+    },
+    {
+      "id": 36,
+      "name": "The Flash",
+      "ability_name": "Double Time",
+      "ability_description": "On your main move, move twice. Each move triggers abilities separately.",
+      "ability_type": "mandatory",
+      "rarity": "rare"
+    }
+  ]
+}

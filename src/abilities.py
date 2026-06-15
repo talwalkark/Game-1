@@ -4,7 +4,7 @@ Implements racer-specific powers and interactions.
 """
 
 from enum import Enum
-from typing import Callable, List, Optional, Dict, Any
+from typing import List, Optional, Dict, Any
 from dataclasses import dataclass
 
 
@@ -173,7 +173,7 @@ class HareAbility(RacerAbility):
         )
 
 
-# Ability Registry
+# Ability Registry - maps racer names to ability classes
 ABILITY_REGISTRY: Dict[str, type] = {
     "Coach": CoachAbility,
     "Banana": BananaAbility,
